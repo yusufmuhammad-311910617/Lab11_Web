@@ -44,7 +44,60 @@
 
 <hr>
 
-## 7.
+## 7.create about.php $ disimpan di app/view/about.php
+![lab11 12](https://user-images.githubusercontent.com/81587959/122003245-09c05c00-cddd-11eb-9d0b-9fd365597d63.PNG)
+![lab11 13](https://user-images.githubusercontent.com/81587959/122003259-0e851000-cddd-11eb-804e-f87524176f43.PNG)
+![lab 11 14](https://user-images.githubusercontent.com/81587959/122003292-1775e180-cddd-11eb-8a61-665bfb7a49ee.PNG)
+
+<hr>
+
+## 8. Create file header.php dan footer.php
+![lab11 15](https://user-images.githubusercontent.com/81587959/122003364-35434680-cddd-11eb-835c-46e950dc58b6.PNG)
+![lab11 16](https://user-images.githubusercontent.com/81587959/122003381-3a07fa80-cddd-11eb-994c-94a520c66cbd.PNG)
+![lab11 17](https://user-images.githubusercontent.com/81587959/122003395-3bd1be00-cddd-11eb-85a8-c511db0cf761.PNG)
+
+<hr>
+
+## 9. Hasil Fhisising :
+![lab 11 18](https://user-images.githubusercontent.com/81587959/122003445-4e4bf780-cddd-11eb-87a1-7a54d5debab7.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
